@@ -1,6 +1,9 @@
 # mediasoup
 sfu solutions: mediasoup 
 
+#demo
+https://v3demo.mediasoup.org/?roomId=kad
+
 #mediasoup client
 ## Official 
 https://mediasoup.org/documentation/v3/
